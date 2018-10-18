@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Tom",
+        "age":"25",
+        "Weight":"50",
+        "height":"5.9",
+        "Friends":["Broke","Thomson","Jagan","Sagar"],
+        "College":{"Name":"St.Joseph's","City":"London","Pincode":"WC2N 5DU"
+
+        }
+    },
+
+    {
+        "name": "Susi",
+        "age":"23",
+        "Weight":"65",
+        "height":"5.5",
+        "Friends":["Ram","Laxman","Bharat","Krish"],
+        "College":{"Name":"Aditya Degree College","City":"Visakhapatnam","Pincode":"530009"
+
+        }
+    }    
+]

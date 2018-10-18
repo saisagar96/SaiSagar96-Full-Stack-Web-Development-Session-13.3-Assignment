@@ -1,0 +1,12 @@
+.container{
+    margin-left: 350px;
+    width: 650px;
+    border: 1px solid black;
+    position: relative;
+}
+.title{
+    color: black;
+    font-family: Tahoma;
+    font-size: 18px;
+    padding-left: 5px;
+}
